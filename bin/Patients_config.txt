@@ -1,0 +1,7 @@
+Data Source=DESKTOP-TGN48J1;Initial Catalog=;User ID=;Password=
+Data Source=DESKTOP-TGN48J1;Initial Catalog=PIMS;Integrated Security=True
+Data Source=DESKTOP-TGN8J1;Initial Catalog=;User ID=;Password=
+Data Source=DESKTOP-TGN8J1;Initial Catalog=PIMS;Integrated Security=True
+Data Source=DESKTOP-TGN48J1;Initial Catalog=;User ID=;Password=
+Data Source=DESKTOP-TGN48J1;Initial Catalog=;User ID=;Password=
+Data Source=DESKTOP-TGN48J1;Initial Catalog=PIMS;Integrated Security=True

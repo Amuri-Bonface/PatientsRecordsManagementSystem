@@ -1,0 +1,233 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PatientRecordManagementSystem
+</name>
+</assembly>
+<members>
+<member name="T:PatientRecordManagementSystem.My.MyWpfExtension">
+ <summary>
+ Module used to define the properties that are available in the My Namespace for WPF
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:PatientRecordManagementSystem.My.MyWpfExtension.Application">
+ <summary>
+ Returns the application object for the running application
+ </summary>
+</member>
+<member name="P:PatientRecordManagementSystem.My.MyWpfExtension.Computer">
+ <summary>
+ Returns information about the host computer.
+ </summary>
+</member>
+<member name="P:PatientRecordManagementSystem.My.MyWpfExtension.User">
+ <summary>
+ Returns information for the current user.  If you wish to run the application with the current 
+ Windows user credentials, call My.User.InitializeWithWindowsUser().
+ </summary>
+</member>
+<member name="P:PatientRecordManagementSystem.My.MyWpfExtension.Log">
+ <summary>
+ Returns the application log. The listeners can be configured by the application's configuration file.
+ </summary>
+</member>
+<member name="P:PatientRecordManagementSystem.My.MyWpfExtension.Windows">
+ <summary>
+ Returns the collection of Windows defined in the project.
+ </summary>
+</member>
+<member name="T:PatientRecordManagementSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:PatientRecordManagementSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:PatientRecordManagementSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.Appointment">
+<summary>
+Appointment
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.Appointment.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.Receipt1">
+<summary>
+Receipt1
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.Receipt1.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.BillingDetails">
+<summary>
+BillingDetails
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.BillingDetails.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.DoctorsRegister">
+<summary>
+DoctorsRegister
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.DoctorsRegister.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.NurseDetails">
+<summary>
+NurseDetails
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.NurseDetails.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.PatientDiagnosis">
+<summary>
+PatientDiagnosis
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.PatientDiagnosis.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.PatientsRegistration">
+<summary>
+PatientsRegistration
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.PatientsRegistration.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.Login">
+<summary>
+Login
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.Login.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.RegisterUser">
+<summary>
+RegisterUser
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.RegisterUser.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.Register_otherStaff">
+<summary>
+Register_otherStaff
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.Register_otherStaff.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.test">
+<summary>
+test
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.test.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.WardAdmission">
+<summary>
+WardAdmission
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.WardAdmission.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.wardDetails">
+<summary>
+wardDetails
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.wardDetails.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.ReportViewer">
+<summary>
+ReportViewer
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.ReportViewer.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.Application">
+<summary>
+Application
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.Application.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.Application.Main">
+<summary>
+Application Entry Point.
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.MainWindow">
+<summary>
+MainWindow
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.MainWindow.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+<member name="T:PatientRecordManagementSystem.MainNavigation">
+<summary>
+MainNavigation
+</summary>
+</member>
+<member name="M:PatientRecordManagementSystem.MainNavigation.InitializeComponent">
+<summary>
+InitializeComponent
+</summary>
+</member>
+</members>
+</doc>
